@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+### You've found me and my special place for sharing my projects 🙌
+- 🔭 I’m currently working on a variety of Discord bots and C# APIs
+- 🌱 I’m currently learning Unreal Engine game development
+- 👯 I’m looking to collaborate on game development or any interesting projects
+- 🤔 I’m looking for help with graphic design and 3D modeling
+- 💬 Ask me about life, and the meaning of existence, and other forbidden things
+- 📫 How to reach me: kalakoi@kalakoigaming.com
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: ... -->
+### Find the others...
 <!--
 **Kalakoi/Kalakoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
