@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unreal Engine game development
 - 👯 I’m looking to collaborate on game development or any interesting projects
 - 🤔 I’m looking for help with graphic design and 3D modeling
-- 💬 Ask me about life, and the meaning of existence, and other forbidden things
+- 💬 Ask me about life, the meaning of existence, and other forbidden things
 - 📫 How to reach me: kalakoi@kalakoigaming.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
