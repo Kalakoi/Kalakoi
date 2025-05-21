@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### You've found me and my special place for sharing my projects 🙌
-- 🔭 I’m currently working on a variety of Discord bots and C# APIs
+- 🔭 I’m currently working on a variety of Runelite plugins, game tools, and C# APIs
 - 🌱 I’m currently learning Unreal Engine game development
 - 👯 I’m looking to collaborate on game development or any interesting projects
 - 🤔 I’m looking for help with graphic design and 3D modeling
